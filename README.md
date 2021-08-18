@@ -2,7 +2,7 @@
 
 ### Usage:
 
-1. `git clone "(link to this repo)"`
+1. `git clone "https://github.com/akhilagrawal1001/Pclub-secy-task5"`
 2. Change the directory to the cloned folder using `cd` command.
 3. `python main.py --course mth`
 > --course will accept any element of list : `{"mth", "lif", "ta", "phy", "chm"}` as arguement and result will be stored in respective csv file. 
